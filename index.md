@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: blog_feed_section
-    title: What's New
+    title: Esto es el BLOG
     subtitle: Blog Feed Section Example
     actions:
       - label: View All
