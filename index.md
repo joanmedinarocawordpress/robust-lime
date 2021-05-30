@@ -44,10 +44,10 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Aquí podemos vender un curso gratuito hablando de las grandezas de montar
+      una web, de cómo ganar tráfico, mejorar el SEO, y empezar a monetizar
+      nuestro sitio para generar dinero.
     actions:
       - label: Button
         url: /pricing
