@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Y porqué deberías estar aquí
-    subtitle: Optional hero section subtitle
+    subtitle: Y porqué deberías estar aquí
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
