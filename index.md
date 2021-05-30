@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: I
+    title: Introducción a nuestra web y bienvenida
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
