@@ -11,7 +11,7 @@ sections:
       - label: Ver BLOG
         url: /pricing
         style: primary
-      - label: 'Empezar '
+      - label: Empezar AQUÍ
         url: /features
         style: secondary
     image: images/classic/hero.png
