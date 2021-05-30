@@ -24,7 +24,7 @@ sections:
     background_color: primary
   - type: blog_feed_section
     title: Esto es el BLOG
-    subtitle: Blog Feed Section Example
+    subtitle: Con una pequeña descripción
     actions:
       - label: View All
         url: /blog
