@@ -49,7 +49,7 @@ sections:
       una web, de cómo ganar tráfico, mejorar el SEO, y empezar a monetizar
       nuestro sitio para generar dinero.
     actions:
-      - label: Button
+      - label: Es GRATIS!
         url: /pricing
         style: primary
     actions_position: bottom
