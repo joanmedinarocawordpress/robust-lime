@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Introducción a nuestra web y Bienvenida
     subtitle: Y porqué deberías estar aquí
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Y aquí poner una pequeña descripción, una incitación, sobre nuestros
+      valores y qué es lo que enseñamos.
     actions:
       - label: Try Free
         url: /pricing
