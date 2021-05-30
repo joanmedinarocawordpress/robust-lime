@@ -8,7 +8,7 @@ sections:
       Y aquí poner una pequeña descripción, una incitación, sobre nuestros
       valores y qué es lo que enseñamos.
     actions:
-      - label: Try Free
+      - label: Ver
         url: /pricing
         style: primary
       - label: Learn More
