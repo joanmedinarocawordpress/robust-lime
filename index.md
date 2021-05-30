@@ -57,6 +57,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+    title: Para que nuestros seguidores se apunten a un Curso Gratuito
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
