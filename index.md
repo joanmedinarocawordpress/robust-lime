@@ -80,5 +80,9 @@ seo:
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
+    - name: 'og:title'
+      value: Joan Medina Roca - Disseny Web Wordpress
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
