@@ -59,7 +59,7 @@ sections:
     background_color: secondary
     title: Para que nuestros seguidores se apunten a un Curso Gratuito
 seo:
-  title: Stackbit DIY Theme
+  title: Joan Medina Roca - Disseny Web Wordpress
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
