@@ -60,7 +60,9 @@ sections:
     title: Para que nuestros seguidores se apunten a un Curso Gratuito
 seo:
   title: Joan Medina Roca - Disseny Web Wordpress
-  description: The preview of the DIY theme
+  description: >-
+    Disseny Web - Wordpress - Manteniment - SEO - Disseny Gràfic - Prestashop -
+    Necessites una web? Contacta'm ara per tenir presència a internet.
   extra:
     - name: 'og:type'
       value: website
