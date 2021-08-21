@@ -76,7 +76,10 @@ seo:
     - name: 'twitter:title'
       value: Joan Medina Roca - Disseny Web Wordpress
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: >-
+        Disseny Web - Wordpress - Manteniment - SEO - Disseny Gràfic -
+        Prestashop - Necessites una web? Contacta'm ara per tenir presència a
+        internet.
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
