@@ -84,5 +84,12 @@ seo:
       value: Joan Medina Roca - Disseny Web Wordpress
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Disseny Web - Wordpress - Manteniment - SEO - Disseny Gràfic -
+        Prestashop - Necessites una web? Contacta'm ara per tenir presència a
+        internet.
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
